@@ -116,7 +116,9 @@ img {
     background-color:var(--color2);
     margin-top: 0.1rem;
 }
-
+.dark-mode-boton {
+    cursor: pointer;
+}
 
 /* Contenedor */
 @media (min-width: 780px) {
